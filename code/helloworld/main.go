@@ -1,4 +1,4 @@
-package apple
+package main
 
 import "fmt"
 
